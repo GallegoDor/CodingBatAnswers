@@ -7,9 +7,9 @@ Warmup-1: COMPLETE
 
 Warmup-2: COMPLETE
 
-String-1: In Progress
+String-1: COMPLETE
 
-List-1:
+List-1: In Progress
 
 Logic-1:
 
