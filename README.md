@@ -11,9 +11,9 @@ String-1: COMPLETE
 
 List-1: COMPLETE
 
-Logic-1: In Progress
+Logic-1: COMPLETE
 
-Logic-2:
+Logic-2: In Progress
 
 String-2:
 
